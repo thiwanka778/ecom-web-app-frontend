@@ -1,5 +1,42 @@
 # Getting Started with Create React App
 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+fontFamily: "'Open Sans', sans-serif"
+fontFamily:" 'Playfair Display', serif"
+fontFamily: "'Roboto', sans-serif"
+fontFamily: "'Ubuntu', sans-serif"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

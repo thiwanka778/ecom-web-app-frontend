@@ -1,0 +1,8 @@
+.nav-link-style{
+    text-decoration: none;
+    color:#93929c;
+}
+
+.nav-link-style.active{
+    color:#424245;
+}
